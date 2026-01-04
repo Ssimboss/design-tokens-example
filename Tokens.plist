@@ -21,7 +21,7 @@
 		<key>type</key>
 		<string>color</string>
 		<key>value</key>
-		<string>FF00000</string>
+		<string>FF000000</string>
 	</dict>
 	<key>header_background_color</key>
 	<dict>
