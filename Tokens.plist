@@ -7,70 +7,70 @@
 		<key>type</key>
 		<string>color</string>
 		<key>value</key>
-		<string>FFE7E7E7</string>
+		<string>FFFFFFFF</string>
 	</dict>
 	<key>button_background_color</key>
 	<dict>
 		<key>type</key>
 		<string>color</string>
 		<key>value</key>
-		<string>FF2FDC54</string>
+		<string>FFD99D00</string>
 	</dict>
 	<key>button_title_color</key>
 	<dict>
 		<key>type</key>
 		<string>color</string>
 		<key>value</key>
-		<string>FFFFFFFF</string>
+		<string>FF00000</string>
 	</dict>
 	<key>header_background_color</key>
 	<dict>
 		<key>type</key>
 		<string>color</string>
 		<key>value</key>
-		<string>FFFFFFFF</string>
+		<string>FFE0E0E0</string>
 	</dict>
 	<key>image_tint_color</key>
 	<dict>
 		<key>type</key>
 		<string>color</string>
 		<key>value</key>
-		<string>FF2FDC54</string>
+		<string>FF1D5ED9</string>
 	</dict>
 	<key>subtitle_color</key>
 	<dict>
 		<key>type</key>
 		<string>color</string>
 		<key>value</key>
-		<string>FF878787</string>
+		<string>FF565656</string>
 	</dict>
 	<key>title_color</key>
 	<dict>
 		<key>type</key>
 		<string>color</string>
 		<key>value</key>
-		<string>FF070707</string>
+		<string>FF000000</string>
 	</dict>
 	<key>button_corner_radius</key>
 	<dict>
 		<key>type</key>
 		<string>dimension</string>
 		<key>value</key>
-		<integer>24</integer>
+		<integer>8</integer>
 	</dict>
 	<key>button_height</key>
 	<dict>
 		<key>type</key>
 		<string>dimension</string>
 		<key>value</key>
-		<integer>48</integer>
+		<integer>50</integer>
 	</dict>
 	<key>button_title_font_size</key>
 	<dict>
 		<key>type</key>
 		<string>dimension</string>
 		<key>value</key>
-		<integer>16</integer>
+		<integer>20</integer>
 	</dict>
 	<key>button_title_font_weight</key>
 	<dict>
@@ -84,21 +84,21 @@
 		<key>type</key>
 		<string>dimension</string>
 		<key>value</key>
-		<integer>24</integer>
+		<integer>32</integer>
 	</dict>
 	<key>title_font_weight</key>
 	<dict>
 		<key>type</key>
 		<string>font_weight</string>
 		<key>value</key>
-		<string>regular</string>
+		<string>bold</string>
 	</dict>
 	<key>subtitle_font_size</key>
 	<dict>
 		<key>type</key>
 		<string>dimension</string>
 		<key>value</key>
-		<integer>16</integer>
+		<integer>18</integer>
 	</dict>
 	<key>subtitle_font_weight</key>
 	<dict>
@@ -112,28 +112,28 @@
 		<key>type</key>
 		<string>dimension</string>
 		<key>value</key>
-		<integer>48</integer>
+		<integer>96</integer>
 	</dict>
 	<key>image</key>
 	<dict>
 		<key>type</key>
 		<string>image_name</string>
 		<key>value</key>
-		<string>globe</string>
+		<string>doc.text.magnifyingglass</string>
 	</dict>
 	<key>header_background_corner_radius</key>
 	<dict>
 		<key>type</key>
 		<string>dimension</string>
 		<key>value</key>
-		<integer>8</integer>
+		<integer>0</integer>
 	</dict>
 	<key>header_spacing</key>
 	<dict>
 		<key>type</key>
 		<string>dimension</string>
 		<key>value</key>
-		<integer>8</integer>
+		<integer>12</integer>
 	</dict>
 	<key>header_horizontal_inset</key>
 	<dict>
@@ -147,7 +147,7 @@
 		<key>type</key>
 		<string>dimension</string>
 		<key>value</key>
-		<integer>8</integer>
+		<integer>16</integer>
 	</dict>
 </dict>
 </plist>
